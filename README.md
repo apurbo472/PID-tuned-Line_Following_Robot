@@ -23,10 +23,9 @@ A high-speed Line Following Robot built using Arduino Nano and an 8-sensor IR ar
 
 ## Project Images
 
-![Robot](IMG_20260621_195809891.jpg)
+![images](IMG_20260621_195809891.jpg)
 
 ## Circuit Diagram
 Available in the Circuit folder.
 
-## Video
-https://youtube.com/your-video-link
+
